@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JayaramM12141/static/css/main.d8d586aa.css",
+    "main.js": "/JayaramM12141/static/js/main.fc33c9fb.js",
+    "static/media/HeroImage.jpg": "/JayaramM12141/static/media/HeroImage.7dc1115b307ca4677ab2.jpg",
+    "index.html": "/JayaramM12141/index.html",
+    "main.d8d586aa.css.map": "/JayaramM12141/static/css/main.d8d586aa.css.map",
+    "main.fc33c9fb.js.map": "/JayaramM12141/static/js/main.fc33c9fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d586aa.css",
+    "static/js/main.fc33c9fb.js"
+  ]
+}
