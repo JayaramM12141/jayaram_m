@@ -1,4 +1,4 @@
-# Rathish Kumar M - Portfolio
+# Jayaram M - Portfolio
 
 Welcome to the repository for my personal portfolio website.
 
@@ -31,40 +31,5 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## Getting Started
 
-To view this project, visit [Rathish Kumar M - Portfolio](https://rathishkumar07.github.io/rathishkumar_m/)
-
-If you want to run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/RATHISHKUMAR07/rathishkumar_m.git
-
-
-2. Navigate to the project directory:
-
-    ```bash
-      cd your-portfolio
-    
-3. Install dependencies:
-
-    ```bash
-    npm install
-
-4. Start the development server:
-
-    ```bash
-    npm start
-    
-The application will be accessible at https://rathishkumar07.github.io/rathishkumar_m/.
-
-## Usage
-
-Feel free to use this project as a template for your own personal portfolio. Customize the content, add your projects, and make it uniquely yours!
-
-## License
-
-This project is licensed under the MIT License.
-
-Happy coding! 🚀
+To view this project, visit [Jayaram M - Portfolio](https://github.com/JayaramM12141/jayaram_m/)
 
