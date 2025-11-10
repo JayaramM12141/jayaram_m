@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
 import Skills from "./components/Skills";
-import Blogs from "./components/Blog/Blogs";
+//import Blogs from "./components/Blog/Blogs";
 
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -41,7 +41,6 @@ function App() {
             <Experience />
             <Certification />
           <Education />
-          <Blogs />
           <Contact />
           <Wrapper>
           <Footer />

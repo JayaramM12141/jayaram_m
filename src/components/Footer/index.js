@@ -87,14 +87,13 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Rathish Kumar</Logo>
+        <Logo>Jayaram M</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
           <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#certification">Certification</NavLink>
           <NavLink href="#education">Education</NavLink>
-          <NavLink href="#blogs">Blogs</NavLink>
           <NavLink href="#contact">Contact</NavLink>
         </Nav>
         <SocialMediaIcons>
@@ -103,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.twitter} target="_blank"><TwitterIcon /></SocialMediaIcon>
           <SocialMediaIcon href={`mailto:${Bio.email}`} target="_blank"><EmailIcon /></SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>© {new Date().getFullYear()} Rathish Kumar. All rights reserved.</Copyright>
+        <Copyright>© {new Date().getFullYear()} Jayaram M. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

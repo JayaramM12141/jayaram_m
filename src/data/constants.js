@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Rathish Kumar",
+  name: "Jayaram M",
   roles: [    
     "Java Developer",
     "Backend Developer",
@@ -7,12 +7,12 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/RATHISHKUMAR07",
-  resume:"https://flowcv.com/resume/20bl04umrq",
-  linkedin: "https://www.linkedin.com/in/rathishkumar-m/",
-  instagram: "https://www.instagram.com/rathishkumar_/",
-  email: "rathishkumar022@gmail.com",
-  twitter: "https://twitter.com/Rathish11931901",
+  github: "https://github.com/JAYARAM-M",
+  resume:"https://drive.google.com/file/d/1s2U4c8y7W83AT9pkzu1e9uaUc4X6wyXu/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/jayaram-m-0b8771223/",
+  instagram: "https://www.instagram.com/jairam_clash/#",
+  email: "jayaram12141@gmail.com",
+  twitter: "https://twitter.com/jrjai2604",
 };
 
 export const skills = [
@@ -73,22 +73,7 @@ export const skills = [
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
-      },
-      {
-        name: "React Js",
-        image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-      },
-      {
-        name: "Thymleaf",
-        image:
-          "https://www.thymeleaf.org/doc/images/thymeleaf.png",
-      },
-      {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      }    
+      }   
     ],
   },
   
@@ -111,6 +96,11 @@ export const skills = [
         name: "XML",
         image:
           "https://naveen-portfolio.s3.ap-south-1.amazonaws.com/Logo/xml.png",
+      },
+      {
+        name: "Docker",
+        image:
+          "https://blog.nashtechglobal.com/wp-content/uploads/2024/09/Docker.logo2_.png",
       },
       {
         name: "JSON",
@@ -151,14 +141,7 @@ export const skills = [
       {
         name: "Swagger",
         image:
-          "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/swagger.svg",
-      },
-      {
-        name: "Blender",
-        image:
-          "https://cdn.worldvectorlogo.com/logos/blender-2.svg",
-      },
-
+          "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/swagger.svg",      },
       {
         name: "Eclipse",
         image:
@@ -181,20 +164,20 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAtFBMVEX////lFjVlYmLkACzteYTjABn87O3jAB1hXl7raXbjABJpZmbkACnvipP519pdWVmRj4/kACXU09P98fLlDzGcmprpUmPzqrDnN0zwk5vqXWzoRlnnMEdVUlJ/fX32w8inpqb3ys774uSHhYW1s7Pi4eHiAACxsLDNzMx0cXHteIPxnqXlHTrscX1NSUn29vbDwsL0tLrrY3Hq6elCPj7pTF3oPlL6297ypazvjpf0sbbugozJEdOKAAAFX0lEQVR4nO2Ze0OiTBSHZRFBIgkh29zQMnXLNLq8am3f/3u9MAwwMwyal6D09/ylnOHMmUeci9ZqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACUz+vZeQGjbVO2CXf7rLJcRr4hx996UIYd4e+zynIZ+b/k2Fs7OYnv32eV5QIneeAkz+jRpiQuKI/H6yRoU0Z0KKPkQrBtyh/vJCMeCrdcnJ/JGNLo021P5G+WKHIyGqb8zKVZ4uREvkrHUnr5VdwfZYlCJ+30exlivFYwpl2ROLmXzr7GWRQb2vnAPZModGLwk3YFY9qVYifZg8A4uTfEYLLNS5ycCU6eKhjUjhQ6Ocnmi/vMyQkdaS+baJ7YRL/uhBXNvi59SDtT6OQ+uzCyBSeyDz+OGO07Cv2WGddfWv6XsJUT2akmtxY/2YfoJBjFXBvbOIn3yofmZPToEwxxPjlmJ+zCa5wXNOcSHb4TdvflvxY05xIdvJPa8G/K8LWoOZfosJ2cfLY5FzlsJ367uLktiR22E7oj9Xu3LD1mPgl3p0OGpyxyqE6SMyB3+LXPmeZhjJl97V4WOVQn1/mzbzq9CCe82M8ROAns/MB9+jvI6+MROLHJTvU/7lpw64ukh7627dsCPjkaGb7w/068u/GvyxlHCQQ8bCj96TYjusy8pCnoL77lFg4AAAD8DFpjcw3OrPGJPCTNeLGij/HH5tXN4zvdze/chZaurEM1l+vzmFFLryONLUkf1unm1XXV6E7t+zlRPGV9nmNzomg3a/McnRPnYm2e9U7My82rq9SJ6sRo1IKux2+9fTlR9ectqqvSiZV8hg0rVtKP37q/Pd6J2xBIAoyTNJYMJXSidekb8X42R0jABdyOxzoRbhtI8+3fSe0PqcJM3vYdzsnC1ATMmeBkmTUxlVjt0owektZD9FrJZQjbNelx2+1yUXPRZJz0df6ucTg/3eRzqds8j5s50VknTUcy1yx4J1Mvi3ljUmBrHg6qPiZz7JWXT6FY0zi/p3KXzcZL9t1xx/ydXtivq+Wzeeb6L/oenfRNyXgU7Zl1Uue0eWoUC5+CvmpZxU4UnXRwySu3Jux8ciMsBtHFDu8wiZToxNVUDjo66yNz0r0Z02BSH/nSBx0tWYupEyGH2oxiHS8xGWFpgcxJHFSjJ/DClBakfWKLuS8nly9NjjldshgnnVkStDzGySKauVknatLsj8M4mcf36HMSmgxqEifedEYIZ6qgy9fTnMafhN4qz0mOByfnJI25jJMBCbJOssf73RKdOA9ZDzkn3tWqwSy8yp24WrGTWl1NnbT0YicNTXTC7kZyTqz3VYN5c0p38nzK8G+Nk4/MyXIjJ2aWQ+KE3Qy7l0w9H2FPF6U7mWkWw/jzz8mGTpj/BlY6cXWHqUevV+AkGCssZuVO3rilOyqjdCdx9Uqym6z+OaFTfFLPpIL5hFa/HFC+hxO1mdTTqMoJtxZ+kROmh/VOuCXxGzipfYkTp58l6XobOalqPln8zvC+woniZKdcuvFbNZ9cMfVcKdU48RiU/TpJzjsiK50oYj2lOpGeivfp5FTyU8R6Jzl2d0LOlnq6ZV445NSZOiFhjXxpp44qI9os1WrkPOzMGSd6dMUcZH0QJ1OLy19rxDe+RK8DRd4D+X/nRig0+ttI2lo1d3UymNVDZumPU++T6H0z7TcOk2nPPSUxkQkR1iQvmU/xgjQm/5fRPv5Flz/iy2kzl8Qm9Nz3Ju1hFjlZCoVGmqSt67PBjk4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANiG/wEwVblSbi1k4gAAAABJRU5ErkJggg==",
-    role: "Associate Software Engineer ",
-    company: "Tech Mahindra.",
-    date: "Jun 2024 - Current.",
+    img:"https://www.thestatesman.com/wp-content/uploads/2022/06/TCS.jpg",
+    role: "Product Engineer ",
+    company: "Tata Consultancy Services",
+    date: "May 2024 - Current.",
     desc: "",
     skills: [
       "Java",
       "Spring Boot",
-      "HTML",
-      "CSS",
-      "JavaScript",
+      "XML",
+      "Restful API",
+      "JSON",
       "Shell",
       "Agile",
-      "MySQL",
+      "OracleSQL",
       "Git",
       "Docker",
       "Linux",
@@ -226,29 +209,13 @@ export const experiences = [
 ];
 
 export const certifications = [
-  {
-    id: 0,
-    img: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
-    c_name: "AWS Certified Cloud Practitioner",
-    c_authority: "Amazon Web Services.",
-    c_link: "https://www.credly.com/badges/d1c8e149-b9a6-4b12-8222-854c2e87073a/linked_in_profile",
-    c_date: "4 Dec 202 - 4 Dec 2027",
-    skills: [
-      "AWS",
-      "Cloud Computing",
-      "AWS Services",
-      "EC2",
-      "S3"
-
-    ],
-    doc: "",
-  },
+  
   {
     id: 1,
     img: "https://images.credly.com/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png",
     c_name: "Oracle Certified Associate, Java SE 8 Programmer ",
     c_authority: "Oracle Corporation.",
-    c_link: "https://drive.google.com/file/d/1inicUdbkxYl4JfP3qOEty0rteqNBzmbc/view?usp=drive_link",
+    c_link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=821FC2C7B5FFFFE0D71CAB4EA41D9379780A8F2213E1B22FC7318FE4AF2C0018",
     c_date: "1 Mar 2023 - No Expiry",
     skills: [
       "Java",
@@ -266,26 +233,26 @@ export const education = [
     img: "https://www.bitsathy.ac.in/wp-content/uploads/cropped-bit_logo.png",
     school: "Bannari Amman Institute od Technology, Erode",
     date: "Jun 2019 - Jun 2023",
-    grade: "9.01 CGPA",
+    grade: "9.18 CGPA",
     desc: "I completed B.Tech Computer Technology at Bannari Amman Institute od Technology, Erode. I have taken courses in Data Structures and Algorithms, Object Oriented Programming, Software Architecture and Design, Database Management System (DBMS), Web Technologies, Problem Solving, Project Management, Agile Development, Software Design and Development,Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology in Computer Technology",
   },
   {
     id: 1,
     img: "https://naveen-portfolio.s3.ap-south-1.amazonaws.com/Logo/SFS.png",
-    school: "St.Francis De Sales Hr Sec School, Tamilnadu",
+    school: "Sri Vidhya Bharathi Mt Hr Sec School, Tamilnadu",
     date: "Apr 2018 - Apr 2019",
     grade: "73.8%",
-    desc: "I completed my class 12 high school education at St.Francis De Sales Matric Higher Secondary School, Vellore, where I studied Science with Computer Science.",
+    desc: "I completed my class 12 high school education at Sri Vidhya Bharathi Matric Higher Secondary School, Tamilnadu, where I studied Science with Computer Science.",
     degree: "HSC(XII), Science with Computer",
   },
   {
     id: 2,
     img: "https://naveen-portfolio.s3.ap-south-1.amazonaws.com/Logo/SFS.png",
-    school: "St.Francis De Sales Hr Sec School, Tamilnadu",
+    school: "Sri Vidhya Bharathi Mt Hr Sec School, Tamilnadu",
     date: "Apr 2016 - Apr 2017",
     grade: "95.4%",
-    desc: "I completed my class 10 education at St.Francis De Sales Matric Higher Secondary School, Vellore",
+    desc: "I completed my class 10 education at Sri Vidhya Bharathi Matric Higher Secondary School, Tamilnadu",
     degree: "SSLC(X)",
   }
 ];
