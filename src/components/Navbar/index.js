@@ -1,4 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
+import { FaJedi } from 'react-icons/fa'; 
+
 import {
   Nav,
   NavLink,
@@ -55,7 +57,29 @@ const Navbar = () => {
               cursor: 'pointer'
             }}
           >
-            <FaRProject size="2.5rem" />
+          <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="40"
+  height="40"
+  fill="#856518"
+>
+  <circle cx="32" cy="32" r="30" stroke="#856518" strokeWidth="3" fill="none" />
+  <text
+    x="50%"
+    y="50%"
+    textAnchor="middle"
+    dominantBaseline="central"
+    fontSize="32"
+    fontWeight="bold"
+    fill="#856518"
+    fontFamily="Arial, sans-serif"
+  >
+    J
+  </text>
+</svg>
+
+
           </a>
         </NavLogo>
 
